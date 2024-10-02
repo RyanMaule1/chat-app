@@ -1,0 +1,3 @@
+
+//need to make sure chatName is in sync with the contacts, may need to make context 
+
